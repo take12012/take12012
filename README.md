@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-take12012.vercel.app/api?username=take12012&include_all_commits=true&count_private=true&show_icons=true" height="158px" />
+  <img align="center" src="https://git-hub-readme-stats-clone-9eo7.vercel.app/api/top-langs/?username=take12012&count_private=true&layout=compact&langs_count=10" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-take12012.vercel.app/api/top-langs/?username=take12012&count_private=true&layout=compact&langs_count=10" />
+  <img align="center" src="https://git-hub-readme-stats-clone-9eo7.vercel.app/api?username=take12012&include_all_commits=true&count_private=true&show_icons=true" height="158px" />
 </a>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
